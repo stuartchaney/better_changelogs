@@ -1,6 +1,6 @@
-# BetterChangelogs
+# Better Changelogs
 
-TODO: Write a gem description
+Unify changelogs with each release of your gem
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO:
 
 ## Contributing
 
