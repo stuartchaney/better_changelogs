@@ -1,0 +1,3 @@
+module BetterChangelogs
+  VERSION = "0.0.1"
+end
