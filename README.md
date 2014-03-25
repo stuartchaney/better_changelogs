@@ -1,6 +1,6 @@
-# BetterChangelogs
+# Better Changelogs
 
-TODO: Write a gem description
+Unify changelogs with each release of your gem
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO:
 
 ## Contributing
 
@@ -27,3 +27,5 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Ideas
